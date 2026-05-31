@@ -18,7 +18,7 @@ from telegram.ext import (
 # ══════════════════════════════════════════════
 # ⚙️  الإعدادات الأساسية
 # ══════════════════════════════════════════════
-TOKEN    = "8305933964:AAFIk27x"
+TOKEN    = "8305933964:AAFIk27xGOrvnT0Fw7VS0rmXu3yHuXbotoU"
 ADMIN_ID = 5707994417
 ADMINS   = {ADMIN_ID}
 
