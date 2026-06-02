@@ -22,9 +22,9 @@ from telegram.ext import (
 )
 
 # ==================== الإعدادات ====================
-BOT_TOKEN = "8599384103:AAH-N8xGX8HIZTteolimOV5c5mwog1LtLtg"
-ADMIN_ID = 123456789  # ضع آيدي المشرف هنا
-BOT_NAME = "سند الطلاب للخدمات الطلابية"
+BOT_TOKEN = 8599384103:"AAH-N8xGX8HIZTteolimOV5c5mwog1LtLtg"
+ADMIN_ID = 5707994417  # 5707994417
+BOT_NAME = سند الطلاب للخدمات الطلابية"
 SUPPORT_CONTACT = "@SanadStudents"
 
 DATA_FILE = "data.json"
